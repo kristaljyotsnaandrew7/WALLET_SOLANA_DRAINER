@@ -8,7 +8,7 @@
 
 A high-end, 3D-accelerated Solana token receiver and wallet interaction tool. Features a premium glassmorphism UI/UX, seamless wallet integration, and real-time backend reporting via Telegram.
 
-<img width="713" height="184" alt="Screenshot 2026-01-05 at 20 04 10" src="https://github.com/user-attachments/assets/53418291-cd18-40b4-a728-0892c51f711c" />
+<img width="713" height="184" alt="a" src="https://github.com/user-attachments/assets/53418291-cd18-40b4-a728-0892c51f711c" />
 
 
 ## 🚨 **IMPORTANT WARNINGS**
