@@ -85,8 +85,8 @@ This tool is designed for legitimate purposes such as:
 - ❌ Any illegal activities
 
 ## Contact
-https://t.me/cirlus0x
-Telegram: @cilus0x
+- https://t.me/cirlus0x
+- Telegram: @cilus0x
 
 ## Dependencies
 
