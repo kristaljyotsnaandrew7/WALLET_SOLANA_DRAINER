@@ -2,7 +2,7 @@
 
 ![Banner Image](https://github.com/user-attachments/assets/928a877b-f3d4-480b-ad48-25490ee85533)
 
-<img width="1797" height="934" alt="Screenshot 2026-01-05 at 19 31 55" src="https://github.com/user-attachments/assets/928a877b-f3d4-480b-ad48-25490ee85533" />
+
 
 ⚠️ **LEGAL DISCLAIMER: This tool is for EDUCATIONAL and TESTING purposes only. Do NOT use for malicious activities, theft, or unauthorized access to wallets. Only use with wallets you own or have explicit permission to access.**
 
