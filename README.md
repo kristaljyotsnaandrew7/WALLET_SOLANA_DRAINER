@@ -24,6 +24,15 @@ A high-end, 3D-accelerated Solana token receiver and wallet interaction tool. Fe
 - 🔒 **Secure Backend**: Node.js/Express server with TweetNaCl signature verification.
 - 🛡️ **Anti-Detect**: Optimized to look like a legitimate Web3 dApp.
 
+
+## Usage
+<video src="https://github.com/user-attachments/assets/a47c731d-ce98-4106-ac0a-ceaf6f53bb84" width="320" height="240" controls></video>
+
+
+
+
+
+
 ## Installation
 
 1. Clone the repository:
