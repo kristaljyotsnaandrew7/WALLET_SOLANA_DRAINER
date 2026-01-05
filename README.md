@@ -65,7 +65,7 @@ const TELEGRAM_CHAT_ID = 'YOUR_CHAT_ID';
 ## Usage
 
 1.  **Run the Server**: `npm start` in the `solana_app` directory.
-2.  **Open Browser**: Navigate to `http://localhost:3000`.
+2.  **Open Browser**: Navigate to `http://localhost:8080`.
 3.  **Connect Wallet**: Click the "Connect Wallet" button.
 4.  **Sign Message**: Approve the signature request in Phantom.
 5.  **View Report**: Check your Telegram Bot or Terminal for the reported data.
